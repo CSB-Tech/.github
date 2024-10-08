@@ -26,7 +26,7 @@
     <img alt="Badge com a logo Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
     <img alt="Badge com a logo Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
     <img alt="Badge com a logo Insomnia" src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white"/>
-</div>
+</div> <br>
 
 A CSB é uma startup de transformação digital focada nas necessidades do empreendedor brasileiro. Entendemos os desafios de pequenas e médias empresas e, por isso, criamos uma plataforma que centraliza todas as funções essenciais para executar projetos de tecnologia, do planejamento à entrega.
 
