@@ -1,6 +1,6 @@
 # CSB - Consulting for Small Business
 
-![Consulting for Small Business](assets/csb_capa.jpg)
+![Consulting for Small Business](../assets/csb_capa.jpg)
 
 <div align="center">
     <img alt="Badge com a logo JavaScript" src="https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
